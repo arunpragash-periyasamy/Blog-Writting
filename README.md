@@ -4,9 +4,6 @@
 ![1](https://github.com/arunpragash-periyasamy/Git-tutorial/blob/main/Screenshot%20from%202022-12-16%2014-40-41.png)
 Git Tutorial in Linux Terminal
 Hello, everyone! In this article, we’ll look at how to download or install git in Linux, as well as the basic commands for working with git. Okay, without wasting time, let’s just start learning git.
-![Screenshot from 2022-12-16 14-42-14](https://user-images.githubusercontent.com/79126203/208116680-6f975c54-ed61-4c2f-b1b4-e9f50732c2e2.png)
-
-![Screenshot from 2022-12-16 14-44-05](https://user-images.githubusercontent.com/79126203/208116719-9cf7730e-7414-4ded-a4ae-59739c1ec2ec.png)
 
 What is Git
 Git is a distributed version control system that is used to enable software project development by having multiple independent local copies of the project code. These copies, or branches, are created to maintain a copy of the source code of each version of the project to track our code if any mistake is made in the last update.
