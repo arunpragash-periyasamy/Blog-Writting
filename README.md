@@ -1,7 +1,7 @@
 # Git-tutorial
 #Tutorial about the Git with commands
 
-
+![1](https://github.com/arunpragash-periyasamy/Git-tutorial/blob/main/Screenshot%20from%202022-12-16%2014-40-41.png)
 Git Tutorial in Linux Terminal
 Hello, everyone! In this article, we’ll look at how to download or install git in Linux, as well as the basic commands for working with git. Okay, without wasting time, let’s just start learning git.
 
